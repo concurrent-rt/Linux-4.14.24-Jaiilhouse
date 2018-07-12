@@ -1,1 +1,0 @@
-/home/arun/JAILHOUSE/linux-4.14.24/linux-4.14.24/scripts/gdb/vmlinux-gdb.py
