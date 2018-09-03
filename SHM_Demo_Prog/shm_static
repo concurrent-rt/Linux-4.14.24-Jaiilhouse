@@ -1,0 +1,5 @@
+* yum install glibc-static
+
+* gcc -static -L /libc.a(path) -o read read.c
+
+* ldd read
